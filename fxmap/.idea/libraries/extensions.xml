@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="extensions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3rdparty/batik-bin-1.8/batik-1.8/extensions/batik-squiggle-ext-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/3rdparty/batik-bin-1.8/batik-1.8/extensions/batik-rasterizer-ext-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

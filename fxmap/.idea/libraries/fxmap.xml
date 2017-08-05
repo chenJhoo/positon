@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fxmap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fxmap_jar/fxmap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
